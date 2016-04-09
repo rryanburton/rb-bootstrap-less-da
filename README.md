@@ -1,6 +1,8 @@
 ## Quick start
 
 * Install with [npm](https://www.npmjs.com): `npm install `.
+* Edit variables.less file
+* Build with [grunt](http://gruntjs.com/): `grunt dist-css `.
 
 
 Read the [Getting started page](http://getbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
